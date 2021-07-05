@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390344648076",
+    "project_id": "travel-app-1df66",
+    "storage_bucket": "travel-app-1df66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390344648076:android:64b9b3d2f0a5af3e8122a9",
+        "android_client_info": {
+          "package_name": "com.example.madhack2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390344648076-dimbtr105eelm729ivu4hqg3k2plrbn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4TI05sbDYmA0Dr51AjTa4MWe-K7dTuuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390344648076-dimbtr105eelm729ivu4hqg3k2plrbn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
